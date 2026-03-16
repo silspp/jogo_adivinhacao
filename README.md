@@ -9,5 +9,5 @@
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
-  ##TIME  :cat
+<H2>🐱 TIME</H2>  
   <img src="https://github.com/silspp/jogo_adivinhacao/blob/main/3386-git-github-projeto_inicial/img/muperfilsalvo.png">
