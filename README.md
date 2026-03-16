@@ -10,4 +10,4 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
   #time
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://github.com/silspp/jogo_adivinhacao/blob/main/3386-git-github-projeto_inicial/img/meuperfil.jpg">
